@@ -1,2 +1,2 @@
-# inianTI-FrontEnd
-inianTI-FrontEnd (HTML, CSS e JS)
+# inicianTI-FrontEnd
+inicianTI-FrontEnd (HTML, CSS e JS)
