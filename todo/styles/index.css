@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+:root {
+    --primary: #3f60fa;
+    --secondary: #585858;
+}
+
+
+html, body {
+    background-color: rgba(232, 232, 232, 0.8);
+}
+
+main {
+    font-family: Montserrat, sans-serif;
+    height: 100vh;
+    width: 100vw;
+    overflow: auto;
+    position: relative;
+}
+
+section {
+    width: 90%;
+    box-shadow: 0 0 10px 0 #6b6b6b;
+    border-radius: 10px;
+    min-height: 300px;
+    padding: 1rem 0 5rem;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.container-title {
+    color: var(--primary);
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+
+.task {
+    text-align: left;
+    width: 100%;
+    padding: 0.5rem;
+    justify-content: space-between;
+}
+
+.add-task-btn {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    transition: 0.2s all ease-in-out;
+    font-size: 1.5rem;
+    cursor: pointer;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border-width: 1px;
+    background-color: black;
+    color: azure;
+    box-shadow: 0 0 3px 0 black;
+}
+
+
+
+
+
+
+
