@@ -6,6 +6,6 @@
 
 ## Demonstração
 
-Veja a demonstração em [https://spotify-clone-theta-cyan.vercel.app/](https://spotify-clone-theta-cyan.vercel.app/).
+Veja a demonstração em [https://spotifyclone-orcin.vercel.app/](https://spotifyclone-orcin.vercel.app/).
 
 
